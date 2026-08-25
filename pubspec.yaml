@@ -1,0 +1,14 @@
+name: omnibot
+description: OmniBot Client
+publish_to: 'none'
+version: 1.0.0+1
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+dependencies:
+  flutter:
+    sdk: flutter
+  flutter_localizations:
+    sdk: flutter
+  http: ^1.2.0
+  sqflite: ^2.3.0
+
