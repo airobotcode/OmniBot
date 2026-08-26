@@ -50,8 +50,18 @@
       ]
     },
     {
+      "name": "vector_math",
+      "version": "2.4.0",
+      "dependencies": []
+    },
+    {
       "name": "sky_engine",
       "version": "0.0.0",
+      "dependencies": []
+    },
+    {
+      "name": "meta",
+      "version": "1.18.3",
       "dependencies": []
     },
     {
@@ -69,16 +79,6 @@
     {
       "name": "characters",
       "version": "1.4.1",
-      "dependencies": []
-    },
-    {
-      "name": "meta",
-      "version": "1.19.0",
-      "dependencies": []
-    },
-    {
-      "name": "vector_math",
-      "version": "2.4.2",
       "dependencies": []
     },
     {
